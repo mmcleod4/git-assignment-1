@@ -11,3 +11,6 @@ Each git repository stores a history of every commit. By using git log you can v
 commits and roll back to previous versions if needed.
 
 3. Explain how git enables sharing code.
+By creating a repository you are able to share it with others on github and also you can grant others 
+direct access to your repository locally or on a remote server. Git also has merging functionality that
+helps facilitate the development of software.
